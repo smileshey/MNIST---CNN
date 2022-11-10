@@ -24,7 +24,7 @@ Then create predictions for the [test set](https://www.kaggle.com/zalando-resear
 
 ### Lightning presentations
 
-Right after lunch we'll reconvene and your group will do a brief walk-through of your best model. Assume the audience here is your classmates and instructors. No slides required.
+Right after lunch we'll reconvene and your group will do a brief walk-through with a slide deck of your best model. Assume the audience here is your classmates and instructors.
     
 ### Roles
 
