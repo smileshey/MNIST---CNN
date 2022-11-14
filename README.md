@@ -22,6 +22,8 @@ Then create predictions for the [test set](https://www.kaggle.com/zalando-resear
 
 - If you have time, you might want to try CNNs, data augmentation, and/or transfer learning to make a better model.
 
+- Your deliverables include a repository of your work, as well as a README. You will also give a lightning presentation outlining your group's process/ conclusions/ difficulties.
+
 ### Lightning presentations
 
 Right after lunch we'll reconvene and your group will do a brief walk-through with a slide deck of your best model. Assume the audience here is your classmates and instructors.
