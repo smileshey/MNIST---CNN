@@ -31,7 +31,7 @@ Right after lunch we'll reconvene and your group will do a brief walk-through wi
 ### Roles
 
 - As always, one person should share their screen so the group can work together (everyone should work on their own notebook, too). If you don't usually share your screen, today is a good day to do so. 
-- One person will present your group's best model to the class.
+- We should hear from each group member during the presentation.
 
 ### The dataset
 From Kaggle:
