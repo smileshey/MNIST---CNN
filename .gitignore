@@ -95,4 +95,8 @@ ENV/
 # Docker directories
 .local
 .ipython
-.jupyter
+.jupyterdata/
+data/
+*.csv
+data/fashion-mnist_train.csv/
+
